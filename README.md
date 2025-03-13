@@ -1,6 +1,8 @@
-# meta-microservicebus-intel-nuc
+# meta-rauc-intel
 
 <img src="./vpro-platform-color-ondark-rgb-3000px.png" style="width:8em">
+
+Intel用のRAUC追加レイヤーです。
 
 The `meta-microservicebus-intel-nuc` layer has been developed together with Intel® to support all Intel® NUC devices. 
 
